@@ -7,7 +7,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "Lead Conversion Systems - AI Dashboard",
+	title: "LCS - AI Dashboard",
 	description:
 		"Monitor your AI agent performance and business impact in real-time"
 };
